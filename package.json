@@ -1,0 +1,24 @@
+{
+  "name": "vanthai.me",
+  "version": "0.0.0",
+  "description": "Van's Website",
+  "main": "index.html",
+  "dependencies": {
+    "browser-sync": "^1.5.2",
+    "gulp": "^3.8.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://vanthanhthai@github.com/VanThanhThai/vanthai.me.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VanThanhThai/vanthai.me/issues"
+  },
+  "homepage": "https://github.com/VanThanhThai/vanthai.me"
+}
