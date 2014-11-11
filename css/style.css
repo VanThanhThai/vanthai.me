@@ -116,6 +116,7 @@
 	em, i
 	{
 		font-style: italic;
+	
 	}
 
 	br.clear
@@ -296,12 +297,14 @@
 		{
 			display: inline-block;
 			position: relative;
+
 		}
 		
 			.image img
 			{
 				display: block;
 				width: 100%;
+
 			}
 
 			.image.fit
@@ -606,13 +609,15 @@
 		.wrapper.style1
 		{
 			background-image: none;
-			background-color: #fff;
+			background-color: #464E77;
+			
 		}
 		
 		.wrapper.style2
 		{
 			background-color: #fafafa;
 			text-shadow: 1px 1px 0px #fff;
+
 		}
 		
 		.wrapper.style3
@@ -629,6 +634,7 @@
 		}
 
 			.wrapper.style4 h1, 
+
 			.wrapper.style4 h2, 
 			.wrapper.style4 h3, 
 			.wrapper.style4 h4, 
