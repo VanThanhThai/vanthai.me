@@ -116,7 +116,7 @@
 	em, i
 	{
 		font-style: italic;
-	
+
 	}
 
 	br.clear
@@ -603,7 +603,7 @@
 
 		.wrapper.first
 		{
-			box-shadow: none;
+			box-shadow: none;#303030
 		}
 
 		.wrapper.style1
@@ -615,14 +615,14 @@
 		
 		.wrapper.style2
 		{
-			background-color: #fafafa;
+			background-color: #D5D5DA;
 			text-shadow: 1px 1px 0px #fff;
 
 		}
 		
 		.wrapper.style3
 		{
-			background-color: #f4f4f4;
+			background-color: #D5D5DA;
 			text-shadow: 1px 1px 0px #fff;
 		}
 
@@ -667,8 +667,8 @@
 
 	#nav
 	{
-		background-color: #282828;
-		text-align: center;
+		background-color: #303030;
+		text-align: left;
 		position: fixed;
 		left: 0;
 		top: 0;
