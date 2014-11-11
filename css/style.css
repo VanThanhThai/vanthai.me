@@ -682,14 +682,15 @@
 			margin-bottom: 0;
 			line-height: 50px;
 			float: left;
-			left: 0;
+			position:left;
 		}
 
 		#nav ul.social
 		{
 			margin-bottom:0;
-			float: right;
 			right:0;
+			float: right;
+			position: right;
 		}
 
 		#nav li
