@@ -601,6 +601,10 @@
 		box-shadow: inset 0px 1px 0px 0px rgba(0,0,0,0.05), inset 0px 2px 3px 0px rgba(0,0,0,0.1);
 	}
 
+		.wrapper .row {
+			margin: 0px;
+		}
+
 		.wrapper.first
 		{
 			box-shadow: none;#303030
@@ -609,7 +613,7 @@
 		.wrapper.style1
 		{
 			background-image: none;
-			background-color: #464E77;
+
 			
 		}
 		
@@ -679,18 +683,16 @@
 	
 		#nav ul.tab
 		{
+			margin-top:10px;
 			margin-bottom: 0;
-			line-height: 50px;
 			float: left;
-			position:left;
 		}
 
 		#nav ul.social
 		{
 			margin-bottom:0;
 			right:0;
-			float: right;
-			position: right;
+			float: right; 
 		}
 
 		#nav li
@@ -728,6 +730,7 @@
 
 			#nav ul.social
 			{
+				margin-top:5px;
 				margin-bottom:0;
 			}
 		
@@ -745,11 +748,6 @@
 				outline: 0;
 			}
 		
-				#nav a:hover
-				{
-					color: #464E77!important;
-				}
-			
 				#nav a.active:before
 				{
 					content: '';
@@ -774,6 +772,7 @@
 		#top .image
 		{
 			border-radius: 50%;
+			max-width: 100%;
 		}
 
 			#top .image img

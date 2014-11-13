@@ -83,14 +83,10 @@
 		{
 		}
 
-			ul.social
-			{
-				padding: 1em 0.5em 0 0.5em;
-			}
 
 				ul.social li
 				{
-					margin: 0.5em 0.5em 0.5em 0.5em;
+					padding:0px;
 				}
 
 					ul.social li a
@@ -169,11 +165,20 @@
 	{
 	}
 	
-		#nav a
+		#nav .tab a
 		{
 			padding: 0.5em;
 		}
+
+		#nav .social {
+			display:none;
+		}
 		
+		#nav .container ul.tab {
+			float:none;
+			text-align: center;
+		}
+
 /*********************************************************************************/
 /* Articles                                                                      */
 /*********************************************************************************/

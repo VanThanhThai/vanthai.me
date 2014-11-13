@@ -146,17 +146,17 @@
 	{
 	}
 
-		#nav a:hover
+		#nav .tab a:hover
 		{
 			background: #383838;
 		}
 		
-		#nav a:active
+		#nav .tab a:active
 		{
 			background: #484848;
 		}
 	
-		#nav a
+		#nav .tab a
 		{
 			padding: 0.2em 1em 0.2em 1em;
 			margin: 0.6em 0.2em 0.6em 0.2em;
